@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\izdatelstvo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|solutionrelative:izdatelstvo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|d:\\\u0438\u04411-33\\\u0443\u043F06\\izdatelstvo\\izdatelstvo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|solutionrelative:izdatelstvo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|d:\\\u0438\u04411-33\\\u0443\u043F06\\izdatelstvo\\izdatelstvo\\newform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|solutionrelative:izdatelstvo\\newform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|d:\\\u0438\u04411-33\\\u0443\u043F06\\izdatelstvo\\izdatelstvo\\newform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9012F44-21D6-4CC4-8ABF-33EF1F53E6FA}|Izdatelstvo\\Izdatelstvo.csproj|solutionrelative:izdatelstvo\\newform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "newForm.xaml",
+              "DocumentMoniker": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\newForm.xaml",
+              "RelativeDocumentMoniker": "Izdatelstvo\\newForm.xaml",
+              "ToolTip": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\newForm.xaml",
+              "RelativeToolTip": "Izdatelstvo\\newForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-12T16:14:22.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Izdatelstvo\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\MainWindow.xaml",
+              "RelativeToolTip": "Izdatelstvo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-12T13:10:14.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "newForm.xaml.cs",
+              "DocumentMoniker": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\newForm.xaml.cs",
+              "RelativeDocumentMoniker": "Izdatelstvo\\newForm.xaml.cs",
+              "ToolTip": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\newForm.xaml.cs",
+              "RelativeToolTip": "Izdatelstvo\\newForm.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:15:13.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Izdatelstvo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0418\u04211-33\\\u0423\u041F06\\Izdatelstvo\\Izdatelstvo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Izdatelstvo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:10:14.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

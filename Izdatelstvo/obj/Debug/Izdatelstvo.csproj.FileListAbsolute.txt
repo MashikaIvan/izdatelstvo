@@ -1,0 +1,17 @@
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\bin\Debug\Izdatelstvo.exe.config
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\bin\Debug\Izdatelstvo.exe
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\bin\Debug\Izdatelstvo.pdb
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo.csproj.AssemblyReference.cache
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\MainWindow.g.cs
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\newForm.g.cs
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\App.g.cs
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo_MarkupCompile.cache
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo_MarkupCompile.lref
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\MainWindow.baml
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\newForm.baml
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo.g.resources
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo.Properties.Resources.resources
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo.csproj.GenerateResource.cache
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo.csproj.CoreCompileInputs.cache
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo.exe
+D:\ИС1-33\УП06\Izdatelstvo\Izdatelstvo\obj\Debug\Izdatelstvo.pdb
